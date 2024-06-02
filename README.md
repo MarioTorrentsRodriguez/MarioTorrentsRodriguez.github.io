@@ -1,3 +1,4 @@
+#[Javier Gómez González](https://mariotorrentsrodriguez.github.io/)
 # Bubble Bobble Tribute
 
 Bubble Bobble is a classic arcade game where you control two dragons, Bub and Bob, who trap enemies in bubbles to clear each level. In this tribute, we have recreated the first four levels of the game.
@@ -11,9 +12,9 @@ In our tribute, we have reproduced the first four levels of Bubble Bobble, captu
 ## Team Members
 
 ![20240308_100111](https://github.com/javiergg14/Project-1-BubbleBobble/assets/158219704/66f2d78c-8518-4d7a-bc78-8fae53889ed4)
-Javier Gomez Gonzalez: Coder
+Javier Gómez González: Coder
 
-Mario Torrents Rodriguez: Artist
+Mario Torrents Rodríguez: Artist
 
 ## Gameplay Video
 

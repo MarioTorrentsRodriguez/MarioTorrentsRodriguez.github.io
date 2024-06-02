@@ -18,7 +18,7 @@ Mario Torrents Rodríguez: Artist
 
 ## Gameplay Video
 
-You can check our gameplay video [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+You can check our gameplay video [here](https://youtu.be/TN7YugAHSkw)
 ## Last Release
 
-You can download the las release [here](https://github.com/javiergg14/Project-1-BubbleBobble)
+You can download the las release [here](https://youtu.be/TN7YugAHSkw)
